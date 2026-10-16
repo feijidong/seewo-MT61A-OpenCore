@@ -12,10 +12,10 @@
 7. Camera: Smart camera
 
 ## Usage Notes
-1.Internet access, touch input and display work normally. However, audio playback is unavailable. The camera can be invoked successfully. 
-2.All handwriting software runs with poor performance under macOS. 
-3.Username and password must be typed via keyboard on first login.
-4.Screensavers may have scaling issues.
+1. Internet access, touch input and display work normally. However, audio playback is unavailable. The camera can be invoked successfully. 
+2. All handwriting software runs with poor performance under macOS. 
+3. Username and password must be typed via keyboard on first login.
+4. Screensavers may have scaling issues.
 
 ## Compatible System Versions
 macOS Sequoia 15 and earlier
