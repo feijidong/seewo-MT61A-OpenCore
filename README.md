@@ -1,13 +1,22 @@
-# seewo-MT61A-OpenCore
+# seewo-mt61a-opencore-efi
 
-## 适配的硬件
+## Warning: Do not use in class.
+
+## Compatible Hardware
 1. CPU: Intel Core i5-10400
 2. GPU: Intel UHD Graphics 630
-3. RAM: 8G
-4. SSD: 256G
-5. 声卡:无法正常驱动，可通过USB声卡输出3.5mm耳机孔
-6. 网卡:Intel i219-V
-7. 摄像头:Smart camera
+3. RAM: 8 GB
+4. SSD: 256 GB
+5. Audio: Native audio driver not functional. Audio output to 3.5mm headset jack is available via USB sound card.
+6. Network Card: Intel i219-V
+7. Camera: Smart camera
 
-## 使用情况
-可以正常上网，触摸，显示，但是无法播放声音,摄像头可以正常调用，Mac下所有手写软件无法流畅使用
+## Usage Notes
+1.Internet access, touch input and display work normally. However, audio playback is unavailable. The camera can be invoked successfully. 
+2.All handwriting software runs with poor performance under macOS. 
+3.Username and password must be typed via keyboard on first login.
+4.Screensavers may have scaling issues.
+
+## Compatible System Versions
+macOS Sequoia 15 and earlier
+
